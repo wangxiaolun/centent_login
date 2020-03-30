@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-TLBM0JV",
+    "children" : [ {
+      "name" : "2020-MainThread",
+      "children" : [ {
+        "name" : "test_login[args0]",
+        "uid" : "bfbe05b5257b1835",
+        "parentUid" : "a38456c0e9813322d7659e44b23c08d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585558801894,
+          "stop" : 1585558810874,
+          "duration" : 8980
+        },
+        "flaky" : true,
+        "parameters" : [ "{'username': '15301090243', 'password': 'wanglun001WXL'}" ]
+      }, {
+        "name" : "test_login[args1]",
+        "uid" : "244abdb36c8f9b27",
+        "parentUid" : "a38456c0e9813322d7659e44b23c08d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585558824800,
+          "stop" : 1585558833786,
+          "duration" : 8986
+        },
+        "flaky" : true,
+        "parameters" : [ "{'username': '15301090243d', 'password': 'wanglun001WXL'}" ]
+      }, {
+        "name" : "test_login[args2]",
+        "uid" : "af0fb6faafccaa0f",
+        "parentUid" : "a38456c0e9813322d7659e44b23c08d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585558848023,
+          "stop" : 1585558857026,
+          "duration" : 9003
+        },
+        "flaky" : true,
+        "parameters" : [ "{'username': '15301090243@', 'password': 'wanglun001WXL'}" ]
+      } ],
+      "uid" : "a38456c0e9813322d7659e44b23c08d7"
+    } ],
+    "uid" : "f2f72c8722c05f8a13e3680a343822e8"
+  } ]
+}

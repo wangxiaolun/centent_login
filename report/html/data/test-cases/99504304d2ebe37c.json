@@ -1,0 +1,96 @@
+{
+  "uid" : "99504304d2ebe37c",
+  "name" : "test_login[args1]",
+  "fullName" : "scripts.test_login.Test_Login#test_login",
+  "historyId" : "1d661b22c94c0b185b7529d957efe2ef",
+  "time" : {
+    "start" : 1585558565329,
+    "stop" : 1585558573785,
+    "duration" : 8456
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "测试登录界面",
+      "time" : {
+        "start" : 1585558565329,
+        "stop" : 1585558573785,
+        "duration" : 8456
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a5aedd706386eace",
+        "name" : "6d3a84ca-6fdc-4224-b1fc-c54df0436414-attachment.attach",
+        "source" : "a5aedd706386eace.attach",
+        "type" : "text/plain",
+        "size" : 15
+      }, {
+        "uid" : "fc6a94a40d8fe5fd",
+        "name" : "fe81058f-25a3-44fb-ad0c-0fab8270f172-attachment.attach",
+        "source" : "fc6a94a40d8fe5fd.attach",
+        "type" : "text/plain",
+        "size" : 12
+      } ],
+      "parameters" : [ {
+        "name" : "args",
+        "value" : "{'username': '15301090243d', 'password': 'wanglun001WXL'}"
+      } ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TLBM0JV"
+  }, {
+    "name" : "thread",
+    "value" : "12892-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "args",
+    "value" : "{'username': '15301090243d', 'password': 'wanglun001WXL'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99504304d2ebe37c.json",
+  "parameterValues" : [ "{'username': '15301090243d', 'password': 'wanglun001WXL'}" ]
+}

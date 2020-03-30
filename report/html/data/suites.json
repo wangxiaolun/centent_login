@@ -1,0 +1,53 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "Test_Login",
+        "children" : [ {
+          "name" : "test_login[args0]",
+          "uid" : "bfbe05b5257b1835",
+          "parentUid" : "7b1f3082dbe40d829dff5bfc5e95f9a0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1585558801894,
+            "stop" : 1585558810874,
+            "duration" : 8980
+          },
+          "flaky" : true,
+          "parameters" : [ "{'username': '15301090243', 'password': 'wanglun001WXL'}" ]
+        }, {
+          "name" : "test_login[args1]",
+          "uid" : "244abdb36c8f9b27",
+          "parentUid" : "7b1f3082dbe40d829dff5bfc5e95f9a0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1585558824800,
+            "stop" : 1585558833786,
+            "duration" : 8986
+          },
+          "flaky" : true,
+          "parameters" : [ "{'username': '15301090243d', 'password': 'wanglun001WXL'}" ]
+        }, {
+          "name" : "test_login[args2]",
+          "uid" : "af0fb6faafccaa0f",
+          "parentUid" : "7b1f3082dbe40d829dff5bfc5e95f9a0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1585558848023,
+            "stop" : 1585558857026,
+            "duration" : 9003
+          },
+          "flaky" : true,
+          "parameters" : [ "{'username': '15301090243@', 'password': 'wanglun001WXL'}" ]
+        } ],
+        "uid" : "7b1f3082dbe40d829dff5bfc5e95f9a0"
+      } ],
+      "uid" : "5308816e98be8877fda327cc882cfe13"
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

@@ -1,0 +1,12 @@
+test_login:
+  test_login_001:
+    username: "15301090243"
+    password: "wanglun001WXL"
+
+  test_login_002:
+    username: "15301090243d"
+    password: "wanglun001WXL"
+
+  test_login_003:
+    username: "15301090243@"
+    password: "wanglun001WXL"
